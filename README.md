@@ -4,7 +4,6 @@
 **Semaphores are used in application to manage threads.**
 </br>
 </br>
-</br>
 #### Compile 
 ```gcc threadSync.c –o outputfile –lpthread```
 </br>
