@@ -1,6 +1,6 @@
 # Thread-Management-Application
 
-**In this application, I focused on thread management (synchronization problem) in Linux operatin systems. Our threads are covid-19 test units and patients.** </br>
+**In this application, I focused on thread management (synchronization problem) in Linux operating systems. Our threads are covid-19 test units and patients.** </br></br>
 **Semaphores are used in application to manage threads.**
 </br>
 </br>
