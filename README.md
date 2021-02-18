@@ -3,7 +3,14 @@
 **In this application, I focused on thread management (synchronization problem) in Linux operatin systems. Our threads are covid-19 test units and patients.** </br>
 **Semaphores are used in application to manage threads.**
 </br>
-“COVID-19 Test Unit” synchronization problem
+</br>
+</br>
+#### Compile 
+```gcc threadSync.c –o outputfile –lpthread```
+</br>
+</br>
+</br>
+### “COVID-19 Test Unit” application explanation
 </br>
 Today, the units that make Covid-19 tests in medical centers have a very important and critical role.
 With the increase in cases and patients, this may cause the density in these units after fillation studies.
